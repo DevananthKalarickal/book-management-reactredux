@@ -1,0 +1,21 @@
+/* styles.css */
+
+/* Universal background color for the entire page */
+* {
+  background-color: #e8f2d5; /* Light gray background */
+  margin: 0; /* Remove default margin */
+  font-family: Arial, sans-serif; /* Optional: set a universal font */
+}
+
+/* Optional: You can add styles for other universal tags */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0; /* Remove default margin for headings */
+}
+
+p {
+  margin: 0; /* Remove default margin for paragraphs */
+}
+
+.container {
+  padding: 20px; /* Optional: add padding to containers */
+}
